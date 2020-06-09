@@ -9,5 +9,5 @@ This is some documentation I've been working on:
 
 ## Requirements
 
-* NodeJS v12 or later
+* NodeJS v13 or later
 * Docker
